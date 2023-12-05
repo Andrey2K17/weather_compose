@@ -1,4 +1,4 @@
-package com.pg13.weathercompose.ui.theme
+package com.pg13.weathercompose.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
